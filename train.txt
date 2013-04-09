@@ -1,0 +1,11 @@
+1 sa data/1_sa1.pgm
+1 sa data/1_sa2.pgm
+1 sa data/1_sa3.pgm
+1 sa data/1_sa4.pgm
+1 sa data/1_sa5.pgm
+2 saieswar data/2_saieswar1.pgm
+2 saieswar data/2_saieswar2.pgm
+2 saieswar data/2_saieswar3.pgm
+2 saieswar data/2_saieswar4.pgm
+2 saieswar data/2_saieswar5.pgm
+
